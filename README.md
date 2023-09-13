@@ -1,1 +1,1 @@
-# Calculator_App
+A simple calculator application using java in android studio.
